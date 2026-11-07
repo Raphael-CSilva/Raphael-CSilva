@@ -1,4 +1,4 @@
-# Hi, I'm Raphael Silva 👋
+# Hi, I'm Raphael Silva 
 
 ### Industrial Automation | Aspiring PLC & Automation Software Developer
 
@@ -6,7 +6,7 @@ I'm an industrial professional based in Vicenza, Italy, with experience in manuf
 
 I'm currently transitioning into **Industrial Automation and Software Development**, building my knowledge of electrical systems, industrial control, and PLC programming.
 
-### 🎯 Professional Focus
+### Professional Focus
 
 - Industrial Automation & Control Systems
 - PLC Programming — Siemens & Rockwell
@@ -14,23 +14,23 @@ I'm currently transitioning into **Industrial Automation and Software Developmen
 - HMI & SCADA Systems
 - Industrial Networks & Industry 4.0
 
-### 📚 Currently Learning
+### Currently Learning
 
 - Electrical Engineering Fundamentals
 - Industrial Electrical Wiring & Control Panels
 - PLC Programming Fundamentals
 
-### 🚀 My Goal
+### My Goal
 
 To develop practical skills in industrial automation and become an Automation Software Developer, combining hands-on industrial experience with modern control and software technologies.
 
-### 📂 Projects
+### Projects
 
 My automation portfolio is currently under development.
 
 Future repositories will document PLC programming exercises, industrial simulations, and automation projects.
 
-### 📍 Location
+### Location
 
 Vicenza, Italy
 
