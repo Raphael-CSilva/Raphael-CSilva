@@ -33,3 +33,8 @@ Future repositories will document PLC programming exercises, industrial simulati
 ### 📍 Location
 
 Vicenza, Italy
+
+
+### 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/raphael-csilva/)
